@@ -1,6 +1,9 @@
 # Create Terraform Infrastructure with Docker
 ## Learn the Terraform workflow by deploying an NGINX Docker container
 
+## Cloud Shell 練習環境
+https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FWhaleman0423%2Fterraform_learning.git&cloudshell_open_in_editor=Readme.md&cloudshell_workspace=001_use_terraform_build_nginx_container
+
 ## Step：
 ### 1. 建立 main.tf, 貼上程式碼
 
